@@ -1,0 +1,7 @@
+[21-Sep-2023 02:39:43 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/pkllauwb/public_html/mirakel/index.php on line 2
+[21-Sep-2023 02:39:43 UTC] PHP Warning:  include(../koneksi.php): failed to open stream: No such file or directory in /home/pkllauwb/public_html/mirakel/index.php on line 2
+[21-Sep-2023 02:39:43 UTC] PHP Warning:  include(): Failed opening '../koneksi.php' for inclusion (include_path='.:/opt/cpanel/ea-php74/root/usr/share/pear') in /home/pkllauwb/public_html/mirakel/index.php on line 2
+[21-Sep-2023 02:39:43 UTC] PHP Fatal error:  Uncaught Error: Call to a member function query() on null in /home/pkllauwb/public_html/mirakel/index.php:90
+Stack trace:
+#0 {main}
+  thrown in /home/pkllauwb/public_html/mirakel/index.php on line 90
